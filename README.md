@@ -10,7 +10,7 @@ Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C#
 ## 🚀 About Me
 
 - 💼 Improving myself as a **Full Stack Developer** with a focus on **Backend development**
-- 🔭 Currently learning advanced concepts in **.NET COre** and improving **Backend architectures**
+- 🔭 Currently learning advanced concepts in **.NET Core** and improving **Backend architectures**
 - 📫 Reach me at **enisaydin6116@gmail.com**
 
 
@@ -38,17 +38,17 @@ Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C#
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enisaydin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?enisaydin=enisaydin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enisaydin&layout=compact&theme=radical)
 
 ---
 
 ## 📌 Featured Projects
 
-### [Project 1 - Blog App](https://github.com/yourusername/blog-app)
-A full-featured blog platform built with **ASP.NET Core**, **Entity Framework**, and **ReactJS**. Features include user authentication, article management, and comment systems.
+### [Project 1 - Music-Market-App](https://github.com/enisaydin/ASP.NET-MVC-API-MUSIC-MARKET-APP)
+A full-featured Music Market Server "API" built with **ASP.NET Core API **, **Entity Framework**.
 
-### [Project 2 - E-Commerce Platform](https://github.com/yourusername/e-commerce-platform)
-An e-commerce web application that integrates **payment gateways**, **shopping carts**, and **admin panels**. Developed using **C# .NET** and **ReactJS**.
+### [Project 2 - My-Portfolio](https://github.com/enisaydin/ASP.NET-MVC-MYPORTFOLIOPROJECT)
+"A modern e-commerce portfolio website featuring secure payment gateways, interactive shopping carts, and an intuitive admin dashboard. Built using C# .NET for the backend and JavaScrip for a dynamic user interface."
 
 ---
 
