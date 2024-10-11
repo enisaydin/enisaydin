@@ -1,16 +1,59 @@
-## Hi there 👋
+# 💻 Enis Aydın | Full Stack Developer
 
-<!--
-**enisaydin/enisaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C# .NET, ASP.NET MVC, ASP.NET Web API, Entity Framework, MSSQL, JavaScript, and ReactJS**. Always eager to learn and adapt, I specialize in creating efficient, scalable, and high-performance web applications.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/enisaydin?style=social)
+![GitHub stars](https://img.shields.io/github/stars/enisaydin?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 Improving myself as a **Full Stack Developer** with a focus on **Backend development**
+- 🔭 Currently learning advanced concepts in **.NET COre** and improving **Backend architectures**
+- 📫 Reach me at **enisaydin6116@gmail.com**
+- 📝 Check out my [Resume](#)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Frameworks & Libraries:
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### Tools & Platforms:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enisaydin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?enisaydin=enisaydin&layout=compact&theme=radical)
+
+---
+
+## 📌 Featured Projects
+
+### [Project 1 - Blog App](https://github.com/yourusername/blog-app)
+A full-featured blog platform built with **ASP.NET Core**, **Entity Framework**, and **ReactJS**. Features include user authentication, article management, and comment systems.
+
+### [Project 2 - E-Commerce Platform](https://github.com/yourusername/e-commerce-platform)
+An e-commerce web application that integrates **payment gateways**, **shopping carts**, and **admin panels**. Developed using **C# .NET** and **ReactJS**.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enisaydin_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enisaydin6116@gmail.com)
+
