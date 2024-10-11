@@ -12,7 +12,7 @@ Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C#
 - 💼 Improving myself as a **Full Stack Developer** with a focus on **Backend development**
 - 🔭 Currently learning advanced concepts in **.NET COre** and improving **Backend architectures**
 - 📫 Reach me at **enisaydin6116@gmail.com**
-- 📝 Check out my [Resume](#)
+
 
 ---
 
