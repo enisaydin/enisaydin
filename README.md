@@ -1,6 +1,6 @@
 # 💻 Enis Aydın | Full Stack Developer
 
-Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C# .NET, ASP.NET MVC, ASP.NET Web API, Entity Framework, MSSQL, JavaScript, and ReactJS**. Always eager to learn and adapt, I specialize in creating efficient, scalable, and high-performance web applications.
+Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C# .NET Core, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, MSSQL, JavaScript, and ReactJS**. Always eager to learn and adapt, I specialize in creating efficient, scalable, and high-performance web applications.
 
 ![GitHub followers](https://img.shields.io/github/followers/enisaydin?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/enisaydin?style=social)
@@ -9,7 +9,7 @@ Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C#
 
 ## 🚀 About Me
 
-- 💼 Improving myself as a **Full Stack Developer** with a focus on **Backend development**
+- 💼 Improving myself as a **Full Stack Developer** with a focus on **Back-end development**
 - 🔭 Currently learning advanced concepts in **.NET Core** and improving **Backend architectures**
 - 📫 Reach me at **enisaydin6116@gmail.com**
 
