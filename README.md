@@ -48,7 +48,7 @@ Hello! I'm Enis Aydın, a passionate Full Stack Developer with expertise in **C#
 A full-featured Music Market Server "API" built with **ASP.NET Core API **, **Entity Framework**.
 
 ### [Project 2 - My-Portfolio](https://github.com/enisaydin/ASP.NET-MVC-MYPORTFOLIOPROJECT)
-"A modern portfolio webpage.Built using C# .NET ,Entity Framework Code First for the backend and JavaScrip for a dynamic user interface."
+"A modern portfolio webpage.Built using C# .NET ,Entity Framework Code First for the backend and JavaScript for a dynamic user interface."
 
 ---
 
